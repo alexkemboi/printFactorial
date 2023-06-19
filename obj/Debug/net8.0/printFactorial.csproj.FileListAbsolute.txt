@@ -1,0 +1,15 @@
+C:\Users\akemboi\source\repos\printFactorial\obj\Debug\net8.0\printFactorial.csproj.AssemblyReference.cache
+C:\Users\akemboi\source\repos\printFactorial\obj\Debug\net8.0\printFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akemboi\source\repos\printFactorial\obj\Debug\net8.0\printFactorial.AssemblyInfoInputs.cache
+C:\Users\akemboi\source\repos\printFactorial\obj\Debug\net8.0\printFactorial.AssemblyInfo.cs
+C:\Users\akemboi\source\repos\printFactorial\obj\Debug\net8.0\printFactorial.csproj.CoreCompileInputs.cache
+C:\Users\akemboi\source\repos\printFactorial\bin\Debug\net8.0\printFactorial.exe
+C:\Users\akemboi\source\repos\printFactorial\bin\Debug\net8.0\printFactorial.deps.json
+C:\Users\akemboi\source\repos\printFactorial\bin\Debug\net8.0\printFactorial.runtimeconfig.json
+C:\Users\akemboi\source\repos\printFactorial\bin\Debug\net8.0\printFactorial.dll
+C:\Users\akemboi\source\repos\printFactorial\bin\Debug\net8.0\printFactorial.pdb
+C:\Users\akemboi\source\repos\printFactorial\obj\Debug\net8.0\printFactorial.dll
+C:\Users\akemboi\source\repos\printFactorial\obj\Debug\net8.0\refint\printFactorial.dll
+C:\Users\akemboi\source\repos\printFactorial\obj\Debug\net8.0\printFactorial.pdb
+C:\Users\akemboi\source\repos\printFactorial\obj\Debug\net8.0\printFactorial.genruntimeconfig.cache
+C:\Users\akemboi\source\repos\printFactorial\obj\Debug\net8.0\ref\printFactorial.dll
